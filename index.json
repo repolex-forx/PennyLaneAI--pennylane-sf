@@ -1,0 +1,11 @@
+{
+  "org": "PennyLaneAI",
+  "repo": "pennylane-sf",
+  "versions": [
+    {
+      "commit": "f1a3204669ef72b637ff8fea683420b5474baa14",
+      "tag": "",
+      "parsed_at": "2026-10-28T18:42:40.493429+00:00"
+    }
+  ]
+}
